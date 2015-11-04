@@ -1,0 +1,12 @@
+{
+  "name": "rle",
+  "version": "0.0.1",
+  "repo": "clibs/rle",
+  "description": "Run-length encoding of byte arrays.",
+  "keywords": ["rle", "run-length", "compress", "codec"],
+  "license": "MIT",
+  "src": ["rle.h", "rle.c"],
+  "dependencies": {
+    "clibs/int": "*"
+  }
+}
